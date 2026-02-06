@@ -36,4 +36,4 @@ Columns include:
 ## How to Run
 1. Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/churn-prediction.git
+git clone https://github.com/phoenix540/ml-churn_predictipn.git
